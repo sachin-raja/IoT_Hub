@@ -1,4 +1,4 @@
-# IoT_Hub
+# Internet-of-Things-Hub
 My goal  is  to  build  a  smart  hub  for  Internet  of  Things  (IoT)  using a full stack web application framework such as spring boot.
 IoT hub consists of a frontend web application that enables users to monitor
 and control their IoT devices from their phones, pads, or computers, and a server
